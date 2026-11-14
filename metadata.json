@@ -1,0 +1,6 @@
+{
+  "name": "SARWatch — Community Risk Intelligence & Environmental Digital Twin",
+  "description": "Geospatial intelligence command centre transforming SAR and Earth-observation data into community risk intelligence for Durban and KwaZulu-Natal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
